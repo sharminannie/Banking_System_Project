@@ -8,6 +8,7 @@ Create a Banking System, where a user can
 - Check the balance of a specific account,
 - View the details of a specific account, and
 - View the details of all accounts.
+
 Each Account is identified by its account number, balance, and the name of the account holder. The system should be able to handle multiple accounts.
 
 ## Problem#2:
