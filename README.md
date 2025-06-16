@@ -11,7 +11,7 @@ Create a Banking System, where a user can
 Each Account is identified by its account number, balance, and the name of the account holder. The system should be able to handle multiple accounts.
 
 ## Problem#2:
-Update the Student Management System of Lab#3/4 to handle multiple students, where user can do the following
+Update the Student Management System to handle multiple students, where user can do the following
 - Add new Student to the system
 - Update the cgpa of a Student
 - View the cgpa of a Student
